@@ -4,7 +4,7 @@
 The objective of this project is to provide an interactive dashboard for London UK real estate in 2022. It is designed for prospective buyers, real estate agents, and companies to quickly gain insights into property prices, sales trends, and popular districts in London. The dashboard allows users to identify hot areas, property types, and seasonal trends to make informed decisions.
 
 ## Dataset Used
-[Dataset](https://www.kaggle.com/datasets/hm-land-registry/uk-housing-prices-paid) from Kaggle — UK Housing Prices Paid.
+[Dataset](https://www.kaggle.com/datasets/hm-land-registry/uk-housing-prices-paid) from Kaggle 
 
 ## Questions / KPIs
 - Which districts in London had the highest median property prices in 2022?  

@@ -6,7 +6,7 @@ The objective of this project is to provide an interactive dashboard for London 
 ## Dataset Used
 [Dataset](https://www.kaggle.com/datasets/hm-land-registry/uk-housing-prices-paid) from Kaggle 
 
-## Questions / KPIs
+## Questions
 - Which districts in London had the highest median property prices in 2022?  
 - What are the most common types of properties sold (Detached, Semi-Detached, Flats, Terraced)?  
 - How many properties were sold each month, and what was the median price trend?  

@@ -38,4 +38,4 @@ The objective of this project is to provide an interactive dashboard for London 
 - Districts closer to the city are more expensive, while those further away are much cheaper.  
 
 ## Conclusion
-The London Real Estate Dashboard provides valuable insights into the property market for 2022. It highlights trends in property types, seasonal sales patterns, and district-level pricing, helping buyers and real estate professionals make informed decisions. Understanding that flats dominate city-center sales and detached homes remain the premium option allows for strategic planning in both investment and purchasing decisions.
+The London Real Estate Dashboard provides valuable insights into the property market for 2022. It highlights trends in property types, seasonal sales patterns, and district-level pricing, helping buyers and real estate professionals make informed decisions. Understanding that flats dominate city-centre sales and detached homes remain the premium option allows for strategic planning in both investment and purchasing decisions.

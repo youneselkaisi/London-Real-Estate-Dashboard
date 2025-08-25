@@ -39,3 +39,6 @@ The objective of this project is to provide an interactive dashboard for London 
 
 ## Conclusion
 The London Real Estate Dashboard provides valuable insights into the property market for 2022. It highlights trends in property types, seasonal sales patterns, and district-level pricing, helping buyers and real estate professionals make informed decisions. Understanding that flats dominate city-centre sales and detached homes remain the premium option allows for strategic planning in both investment and purchasing decisions.
+
+<img width="861" height="685" alt="image" src="https://github.com/user-attachments/assets/2410510d-f3f3-4bbc-a462-1ada50868aa5" />
+
